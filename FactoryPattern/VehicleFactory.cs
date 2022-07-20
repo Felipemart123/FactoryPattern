@@ -13,6 +13,9 @@ namespace FactoryPattern
                 case 3:
                     return new Car();
                     break;
+                case 4:
+                    return new Truck();
+                    break;
                 default:
                     return new Car();
                     break;

@@ -9,7 +9,7 @@ namespace FactoryPattern
 
         public void Drive()
         {
-            Console.WriteLine("the car is in motion");
+            Console.WriteLine("this bike is in motion");
         }
     }
 }
